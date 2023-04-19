@@ -75,8 +75,3 @@ $ npm start
 - [Node.js](https://nodejs.org/)
 - [Marked - a markdown parser](https://github.com/chjj/marked)
 
-## Contact
-
-- Website [geraldelorm.tech](https://geraldelorm.tech)
-- GitHub [@geraldelorm](https://github.com/geraldelorm)
-- Twitter [@geraldelorm](https://twitter.com/geraldelorm)
